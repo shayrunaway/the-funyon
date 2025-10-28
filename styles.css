@@ -45,6 +45,7 @@ img {
 
 footer {
     font-size: 8px;
+    font-style: italicize;
     padding-right: 6px;
     text-align: right;
 }
